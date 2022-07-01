@@ -1,5 +1,7 @@
 # negcon-ps3-pad
 
+Simplified unnecessarily complex directory structure of the original project: [negcon-ps3-pad](https://github.com/Shfty/negcon-ps3-pad)
+
 Firmware for a configurable Teensyduino-powered DirectInput NeGcon adapter.
 
 (Hardware diagrams and reference images available [here](http://imgur.com/a/RzTdb))
